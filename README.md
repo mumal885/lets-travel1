@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/mumal885/IP-Project/blob/main/IP.png)
+![logo](https://github.com/mumal885/lets-travel1/blob/main/ls.png)
 # lets-travel1
 This lets-travel1 is coded in html, css,js.
 
